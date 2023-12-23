@@ -1,2 +1,1 @@
-# usrbin
-tiny stuff for C like /usr/bin
+snippets for C like /usr/bin
