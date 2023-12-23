@@ -1,3 +1,1 @@
-code snippets would like to be used like /usr/bin.
-
-Any contribution is welcome.
+Feel free to use it and any contribution is welcome.
