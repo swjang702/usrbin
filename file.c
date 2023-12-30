@@ -41,7 +41,7 @@ int file_close(FILE *stream)
     if (!stream) {
         fprintf(stderr, "!! %s:%d: NULL stream\n", __FUNCTION__, __LINE__);
     	return -EFAULT;
-	}
+    }
 
     ret = fclose(stream);
     if (0 != ret) {
