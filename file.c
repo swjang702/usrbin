@@ -62,7 +62,7 @@ int main()
     if (f.stream) {
         fscanf(f.stream, "%s", str);
         puts(str);
-		f.close(f.stream);
+        f.close(f.stream);
     }
 
     return 0;
